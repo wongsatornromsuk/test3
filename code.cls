@@ -1,6 +1,10 @@
 class code{
     public code(){
-        //test123
+        //test234
+    }
+
+    func1(){
+        //aaa
     }
 
     func2(){
