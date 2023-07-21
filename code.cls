@@ -1,13 +1,14 @@
 class code{
     public code(){
-        //test123
+        //test567
     }
 
     func1(){
         //aaa
     }
 
-    func2(){
+    func2(a){
         //aaa
+        line1;
     }
 }
