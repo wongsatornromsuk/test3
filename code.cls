@@ -6,4 +6,8 @@ class code{
     func1(){
         //aaa
     }
+
+    func2(){
+        //aaa
+    }
 }
