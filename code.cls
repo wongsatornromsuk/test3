@@ -1,0 +1,5 @@
+class code{
+    public code(){
+        
+    }
+}
