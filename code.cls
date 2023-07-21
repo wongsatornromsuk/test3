@@ -12,5 +12,6 @@ class code{
         //aaa
         line1;
         line_b;
+        linec;
     }
 }
