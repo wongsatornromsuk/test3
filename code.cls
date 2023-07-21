@@ -7,8 +7,10 @@ class code{
         //aaa
     }
 
-    func2(a){
+    func2(a,
+    b){
         //aaa
         line1;
+        line_b;
     }
 }
