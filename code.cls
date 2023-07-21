@@ -7,12 +7,11 @@ class code{
         //aaa
     }
 
-    func2(a){
+    func2(a,
+    b){
         //aaa
         line1;
-        line2;
-        line3;
-
-        lineb;
+        line_b;
+        linec;
     }
 }
