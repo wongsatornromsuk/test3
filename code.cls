@@ -1,6 +1,6 @@
 class code{
     public code(){
-        //test234
+        //test123
     }
 
     func1(){
