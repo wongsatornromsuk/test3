@@ -10,5 +10,7 @@ class code{
     func2(a){
         //aaa
         line1;
+        line2;
+        line3;
     }
 }
