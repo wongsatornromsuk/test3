@@ -15,4 +15,8 @@ class code{
 
         lineb;
     }
+
+    func3(){
+        
+    }
 }
